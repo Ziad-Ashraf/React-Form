@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #6bd4d7;
+
+    .navbar-nav .nav-item .nav-link{
+        color: white ;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-size: 30px;
+    }
+}
+
+.navbar button {
+    cursor: pointer;
+    color: white;
+}
